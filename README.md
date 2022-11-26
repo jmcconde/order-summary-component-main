@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/jmcconde/order-summary-component-main]
+- Live Site URL: [https://effervescent-biscuit-97c40e.netlify.app/]
 
 ## My process
 
